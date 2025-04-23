@@ -1,0 +1,5 @@
+com\crm\crm\model\Contact.class
+com\crm\crm\model\ContactRepository.class
+com\crm\crm\model\ContactsController.class
+com\crm\crm\model\DemoLoader.class
+com\crm\crm\model\ReactAndSpringDataApplication.class
